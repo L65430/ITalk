@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>2.png</file>
+        <file>10.jpeg</file>
+        <file>11.jpg</file>
+        <file>purple0.4.gif</file>
+        <file>blue70-2.gif</file>
+        <file>red69-2.gif</file>
+        <file>myicon_1.png</file>
+        <file>myicon_2.png</file>
+        <file>myicon_3.png</file>
+        <file>kobe_1.jpg</file>
+        <file>QQgreen.png</file>
+        <file>QQwhite.png</file>
+        <file>contact_green.png</file>
+        <file>contact_white.png</file>
+        <file>monments_green.png</file>
+        <file>monments_white.png</file>
+        <file>personman.png</file>
+        <file>A26.png</file>
+        <file>emotion26.png</file>
+        <file>1.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>school.jpg</file>
+        <file>A26_2.png</file>
+        <file>emotion26_2.png</file>
+        <file>searchlogo52_23.png</file>
+        <file>touxiang01.jpg</file>
+        <file>touxiang02.jpg</file>
+        <file>sunshine.jpg</file>
+        <file>friendmsg.png</file>
+		<file>loginlogo.gif</file>
+		<file>logo.jpg</file>
+		<file>touxiang01.jpg</file>
+		<file>fileinput.png</file>
+		<file>audio.png</file>
+		<file>fileinputpink.png</file>
+		<file>audiopink.png</file>
+		<file>right.png</file>
+		<file>cross.png</file>
+    </qresource>
+</RCC>
